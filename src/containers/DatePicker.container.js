@@ -103,11 +103,8 @@ const Container = styled.div`
   }
 `;
 
-const HeaderWrapper = styled.div`
-  background-color: yellow;
-`;
+const HeaderWrapper = styled.div``;
 
 const MonthWrapper = styled.div`
   position: relative;
-  background-color: pink;
 `;
